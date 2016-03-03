@@ -4,6 +4,7 @@ public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
     //test1
     //test2
+    //test3
 
     private String symbol;
 
