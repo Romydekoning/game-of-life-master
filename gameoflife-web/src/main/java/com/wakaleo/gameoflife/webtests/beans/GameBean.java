@@ -21,6 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 @SessionScoped
 public class GameBean implements Serializable {
 
+    //test
     private int rows = 3;
     private int columns = 3;
     private Universe universe;
