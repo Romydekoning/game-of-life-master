@@ -2,7 +2,7 @@ package com.wakaleo.gameoflife.domain;
 
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
-    //test Jenkins
+    //test Jenkins 2 
 
     private String symbol;
 
