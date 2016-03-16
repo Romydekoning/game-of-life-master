@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 @SessionScoped
 public class GameBean implements Serializable {
 
-    //test jenkins 4
+    //test jenkins 5
     
     private int rows = 3;
     private int columns = 3;
