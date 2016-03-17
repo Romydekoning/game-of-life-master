@@ -4,6 +4,7 @@ public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
     //test Jenkins 2 
 
+    //test
     private String symbol;
 
     private Cell(final String initialSymbol) {
